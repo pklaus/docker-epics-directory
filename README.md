@@ -1,6 +1,4 @@
-# docker-epics-directory
-
-A directory of my EPICS related Dockerfiles and Images on the Docker Hub:
+# Directory of my EPICS Docker Images
 
 * **EPICS Base**
     * [Dockerfile](https://github.com/pklaus/docker-epics) | [Hub](https://hub.docker.com/r/pklaus/epics_base/)
