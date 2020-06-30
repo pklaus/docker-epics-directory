@@ -1,7 +1,7 @@
 # Directory of my EPICS Docker Images
 
 
-| Software Distribution                                                   | Source on Githbub                        | Images on Docker Hub                |
+| Software Distribution                                                   | Github Repository                        | Docker Hub Repository               |
 |-------------------------------------------------------------------------|------------------------------------------|-------------------------------------|
 | **EPICS Base**                                                          | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_base][]           |
 | **EPICS contApps**                                                      | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_contapps][]       |
