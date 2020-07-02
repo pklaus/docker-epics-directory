@@ -1,19 +1,19 @@
 # Directory of my EPICS Docker Images
 
 
-| Software Distribution                                                   | Github Repository                        | Docker Hub Repository               |
-|-------------------------------------------------------------------------|------------------------------------------|-------------------------------------|
-| **EPICS Base**                                                          | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_base][]           |
-| **EPICS contApps**                                                      | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_contapps][]       |
-| **EPICS synApps**<br>*(deprecated in favour of contApps above)*         | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_synapps][]        |
-| **EPICS CA Gateway**                                                    | [/pklaus/docker-ca-gateway][]            | [/r/pklaus/ca-gateway][]            |
-| **catools**<br>*(a collection of the executables in EPICS Base)*        | [/pklaus/docker-catools][]               | [/r/pklaus/catools][]               |
-| **Phoebus**                                                             | [/pklaus/docker-phoebus][]               | [/r/pklaus/phoebus][]               |
-| Phoebus **Alarm-Server**                                                | [/pklaus/docker-phoebus-alarm][]         | [/r/pklaus/phoebus-alarm-server][]  |
-| Phoebus **Alarm-Logger**                                                | [/pklaus/docker-phoebus-alarm][]         | [/r/pklaus/phoebus-alarm-logger][]  |
-| **Archiver Appliance**                                                  | [/pklaus/docker-archiver-appliance][]    | [/r/pklaus/archiver-appliance][]    |
-| **Cassandra PV Archiver**                                               | [/pklaus/docker-cassandra-pv-archiver][] | [/r/pklaus/cassandra-pv-archiver][] |
-| CSS **RDB Archiver / BEAUTY**<br>*(not yet ported/upgraded to Phoebus)* | [/pklaus/docker-beauty][]                | [/r/pklaus/beauty][]                |
+| Software Distribution                                                     | Github Repository                        | Docker Hub Repository               |
+|---------------------------------------------------------------------------|------------------------------------------|-------------------------------------|
+| **EPICS Base**                                                            | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_base][]           |
+| **EPICS contApps**<br>*(Docker optimized module collection like synApps)* | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_contapps][]       |
+| **EPICS synApps**                                                         | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_synapps][]        |
+| **EPICS CA Gateway**                                                      | [/pklaus/docker-ca-gateway][]            | [/r/pklaus/ca-gateway][]            |
+| **catools**<br>*(a collection of the executables in EPICS Base)*          | [/pklaus/docker-catools][]               | [/r/pklaus/catools][]               |
+| **Phoebus**                                                               | [/pklaus/docker-phoebus][]               | [/r/pklaus/phoebus][]               |
+| Phoebus **Alarm-Server**                                                  | [/pklaus/docker-phoebus-alarm][]         | [/r/pklaus/phoebus-alarm-server][]  |
+| Phoebus **Alarm-Logger**                                                  | [/pklaus/docker-phoebus-alarm][]         | [/r/pklaus/phoebus-alarm-logger][]  |
+| **Archiver Appliance**                                                    | [/pklaus/docker-archiver-appliance][]    | [/r/pklaus/archiver-appliance][]    |
+| **Cassandra PV Archiver**                                                 | [/pklaus/docker-cassandra-pv-archiver][] | [/r/pklaus/cassandra-pv-archiver][] |
+| CSS **RDB Archiver / BEAUTY**<br>*(not yet ported/upgraded to Phoebus)*   | [/pklaus/docker-beauty][]                | [/r/pklaus/beauty][]                |
 
 
 [/pklaus/docker-epics]: https://github.com/pklaus/docker-epics
