@@ -9,6 +9,7 @@
 | **Phoebus**                                                               | [/pklaus/docker-phoebus][]               | [/r/pklaus/phoebus][]               |
 | Phoebus **Alarm-Server**                                                  | [/pklaus/docker-phoebus-alarm][]         | [/r/pklaus/phoebus-alarm-server][]  |
 | Phoebus **Alarm-Logger**                                                  | [/pklaus/docker-phoebus-alarm][]         | [/r/pklaus/phoebus-alarm-logger][]  |
+| Phoebus **Archiver** (compiled from source)                               | [/pklaus/docker-phoebus-archiver][]      | [/r/pklaus/phoebus-archiver][]      |
 | **Archiver Appliance**                                                    | [/pklaus/docker-archiver-appliance][]    | [/r/pklaus/archiver-appliance][]    |
 | **Cassandra PV Archiver**                                                 | [/pklaus/docker-cassandra-pv-archiver][] | [/r/pklaus/cassandra-pv-archiver][] |
 
@@ -17,6 +18,7 @@
 [/pklaus/docker-catools]: https://github.com/pklaus/docker-catools
 [/pklaus/docker-phoebus]: https://github.com/pklaus/docker-phoebus
 [/pklaus/docker-phoebus-alarm]: https://github.com/pklaus/docker-phoebus-alarm
+[/pklaus/docker-phoebus-archiver]: https://github.com/pklaus/docker-phoebus-archiver
 [/pklaus/docker-archiver-appliance]: https://github.com/pklaus/docker-archiver-appliance
 [/pklaus/docker-cassandra-pv-archiver]: https://github.com/pklaus/docker-cassandra-pv-archiver
 
@@ -27,6 +29,7 @@
 [/r/pklaus/phoebus]: https://hub.docker.com/r/pklaus/phoebus
 [/r/pklaus/phoebus-alarm-server]: https://hub.docker.com/r/pklaus/phoebus-alarm-server
 [/r/pklaus/phoebus-alarm-logger]: https://hub.docker.com/r/pklaus/phoebus-alarm-logger
+[/r/pklaus/phoebus-archiver]: https://hub.docker.com/r/pklaus/phoebus-archiver
 [/r/pklaus/archiver-appliance]: https://hub.docker.com/r/pklaus/archiver-appliance
 [/r/pklaus/cassandra-pv-archiver]: https://hub.docker.com/r/pklaus/cassandra-pv-archiver
 
@@ -37,7 +40,7 @@ The following Docker images are no longer kept up-to-date:
 | Software Distribution                                                     | Github Repository                        | Docker Hub Repository               |
 |---------------------------------------------------------------------------|------------------------------------------|-------------------------------------|
 | **EPICS synApps**<br>*I switched to contApps from above*                  | [/pklaus/docker-epics][]                 | [/r/pklaus/epics\_synapps][]        |
-| CSS **RDB Archiver / BEAUTY**<br>*not (yet?) ported/upgraded to Phoebus*  | [/pklaus/docker-beauty][]                | [/r/pklaus/beauty][]                |
+| CSS **RDB Archiver / BEAUTY**<br>*see Phoebus Archiver for a replacement* | [/pklaus/docker-beauty][]                | [/r/pklaus/beauty][]                |
 
 [/pklaus/docker-beauty]: https://github.com/pklaus/docker-beauty
 
